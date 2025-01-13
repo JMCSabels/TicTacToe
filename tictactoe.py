@@ -85,12 +85,12 @@ maxTurns = 9
 turns = 0
 
 
-blue = "#4584b6" #Change these later
+blue = "#4584b6"
 yellow = "#ffde57"
 gray = "#343434"
 LGray = "#646464"
 
-window = tkinter.Tk() #makes a window
+window = tkinter.Tk() #makes the window
 window.title("TTT")
 window.resizable(False, False)
 
